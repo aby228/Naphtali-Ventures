@@ -1593,7 +1593,7 @@ export default function NaphtaliVenturesLanding() {
                     <div className="flex flex-col items-center sm:items-start space-y-2">
                       <ReCAPTCHA
                         ref={recaptchaRef}
-                        sitekey="6Ld2RHMrAAAAAKlz_U9-fMAnn_XmLdtq6qOKsjOI"
+                        sitekey="6LfwhHMrAAAAAAz5OylmiIRi7U3Y7lyDFPxQxt5T"
                         onChange={handleRecaptchaChange}
                         onExpired={() => {
                           setRecaptchaValue(null)
