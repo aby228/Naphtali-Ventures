@@ -95,9 +95,6 @@ This is a professional landing page for **Naphtali Ventures**, a business servic
 - **Contact Management**: Multiple contact methods and locations
 - **Emergency Services**: 24/7 emergency contact system
 
-## 📱 Screenshots
-
-*[Add screenshots of your application here]*
 
 ## ⚡ Performance
 
@@ -112,28 +109,6 @@ This is a professional landing page for **Naphtali Ventures**, a business servic
 - Node.js 18+ 
 - npm or pnpm
 - Google account (for reCAPTCHA and Sheets)
-
-### Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/Naphtali-Ventures.git
-cd Naphtali-Ventures-Landing-Page
-
-# Install dependencies
-npm install
-# or
-pnpm install
-
-# Set up environment variables
-cp .env.example .env.local
-# Edit .env.local with your API keys
-
-# Run development server
-npm run dev
-# or
-pnpm dev
-```
 
 ### Environment Variables
 
@@ -160,22 +135,6 @@ npm run build        # Build for production
 npm run start        # Start production server
 npm run lint         # Run ESLint
 ```
-
-## 🚀 Deployment
-
-### Vercel (Recommended)
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel
-```
-
-### Other Platforms
-- **Netlify**: Connect your GitHub repository
-- **AWS Amplify**: Full-stack deployment
-- **DigitalOcean App Platform**: Scalable deployment
 
 ## 📊 Key Features Breakdown
 
@@ -237,26 +196,5 @@ const EmergencyModal = dynamic(() => import('./EmergencyModal'), {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-## 🎯 **Why This Project Stands Out**
-
-### **For Recruiters**
-- **Full-Stack Experience**: Demonstrates both frontend and backend integration
-- **Modern Technologies**: Uses the latest React and Next.js features
-- **Production Quality**: Security, performance, and accessibility considerations
-- **Business Logic**: Real-world application with lead generation and automation
-- **Clean Code**: Well-structured, maintainable, and documented codebase
-
-### **For Developers**
-- **Learning Resource**: Modern React patterns and best practices
-- **Component Architecture**: Reusable UI components with Radix UI
-- **Type Safety**: Full TypeScript implementation
-- **Performance**: Optimized for speed and user experience
-- **Security**: Proper validation and bot protection
-
----
-
-**Built with ❤️ using Next.js, React, and TypeScript**
-
-*Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | [Portfolio](https://yourportfolio.com)*
+*Connect with me: [LinkedIn](https://linkedin.com/in/abraham-yarba) | [GitHub](https://github.com/aby228)*
