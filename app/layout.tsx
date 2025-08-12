@@ -38,6 +38,10 @@ export const metadata: Metadata = {
   description: 'Leading electrical contractor in Ghana providing residential, commercial, and industrial electrical services. 24/7 emergency support, solar installations, and smart electrical solutions.',
   generator: 'Next.js',
   keywords: 'electrical services, Ghana, electrical contractor, solar installation, emergency electrical, commercial electrical, residential electrical',
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+  },
 }
 
 export default function RootLayout({
